@@ -1,0 +1,4 @@
+{"chanels": [
+{"chanel":"1","real_chanel":"/mpeg4","cloud_id":"203dc4de-19de-447e-8ae9-d87a09165176/1","camera_login":"admin","camera_password":"admin","cloud_server":"171.25.232.14","cloud_port":"5511","cloud_url":"rtsp://admin:admin@171.25.232.14:5511/203dc4de-19de-447e-8ae9-d87a09165176/1","status":"1"},
+{"chanel":"2","real_chanel":"/mpeg4cif","cloud_id":"203dc4de-19de-447e-8ae9-d87a09165176/2","camera_login":"admin","camera_password":"admin","cloud_server":"171.25.232.14","cloud_port":"5511","cloud_url":"rtsp://admin:admin@171.25.232.14:5511/203dc4de-19de-447e-8ae9-d87a09165176/2","status":"1"}
+]}
